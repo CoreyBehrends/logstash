@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .vagrant
 Berksfile.lock
 *~
@@ -13,3 +14,29 @@ Gemfile.lock
 bin/*
 .bundle/*
 
+=======
+.*.swp
+*.gem
+pkg/*.deb
+pkg/*.rpm
+*.class
+.rbx
+Gemfile.lock
+.rbx
+*.tar.gz
+*.jar
+.bundle
+build
+local
+test/setup/elasticsearch/elasticsearch-*
+vendor
+.sass-cache
+data
+.buildpath
+.project
+.DS_Store
+*.pyc
+etc/jira-output.conf
+coverage/*
+.VERSION.mk
+>>>>>>> ccb453d557065425c530ddb413219b29ef31647f
